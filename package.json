@@ -1,0 +1,10 @@
+{
+  "name": "api-course",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "kevelscy",
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/node": "^1.14.0"
+  }
+}
